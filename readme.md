@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://github.com/HerissonMan-TMP/AvatarChecker"><img src="https://i.imgur.com/eDRC7nN.png" width="150"></a>
+    <a href="https://discord.com"><img src="https://i.imgur.com/IJQwRGE.png" width="150"></a>
 </p>
 
 # AvatarChecker
