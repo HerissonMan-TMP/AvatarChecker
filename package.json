@@ -1,0 +1,17 @@
+{
+  "name": "avatarchecker",
+  "version": "1.0.0",
+  "description": "This Discord Bot will check the avatar of every new member joing the server, and will verify if the image is appropriate or not.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/bot.js"
+  },
+  "author": "HerissonMan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "sightengine": "^1.3.1"
+  }
+}
