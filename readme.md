@@ -53,5 +53,7 @@ https://discord.com/api/oauth2/authorize?client_id=764513846550462504&permission
 [![](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/HerissonMan-TMP)
 <br>
 The Discord Bot has been developed by HérissonMan.
+<br>
 The Artificial Intelligence to detect inappropriate content is provided by [sightengine.com](https://sightengine.com/).
+<br>
 Bot logo comes from [pngtree.com](https://pngtree.com).
