@@ -26,7 +26,7 @@ The bot detects:
 ## Invite the Bot
 This bot cannot be invited. If you want to use it on your server, you will have to host it yourself.
 <br>
-However, you can have a preview of the bot on this server: *Link coming soon*.
+However, you can have a preview of the bot on this server: https://discord.gg/XMjsGwV.
 
 ## Commands
 `ac!help` Displays a help message showing available commands.
