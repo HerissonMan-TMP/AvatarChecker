@@ -54,6 +54,7 @@ However, you can have a preview of the bot on this server: https://discord.gg/XM
 <br>
 The Discord Bot has been developed by HérissonMan.
 <br>
+<br>
 The Artificial Intelligence to detect inappropriate content is provided by [sightengine.com](https://sightengine.com/).
 <br>
 Bot logo comes from [pngtree.com](https://pngtree.com).
